@@ -16,13 +16,6 @@ A beginner-friendly guide to hardening an Ubuntu server to enhance its security 
 
 ---
 
-## 🐧 Tested On
-
-- ✅ Ubuntu 22.04 LTS
-- ✅ Ubuntu 20.04 LTS
-
----
-
 ## 📋 Hardening Steps
 
 ### 1. 🔄 Update the System
